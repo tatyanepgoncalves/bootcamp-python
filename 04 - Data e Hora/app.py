@@ -1,6 +1,3 @@
-# Estabelecer 10 transações diárias por conta 
-# Caso tenha atingido o limite informe
-# Mostrar extrato, a data e hora de todas as transações.
 from datetime import datetime
 
 
@@ -9,7 +6,7 @@ menu = """
 [s] Sacar
 [e] Extrato
 [q] Sair
-"""
+=> """
 
 account_balance = 0
 account_limit = 5000
