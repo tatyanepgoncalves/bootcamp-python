@@ -7,7 +7,8 @@ menu = """
 [e] Extrato
 [q] Sair
 => """
-
+# Capão, 00 - zona rural - Berilo/MG
+# Dom Carloa - 55 - Bela Vista - Virgem da Lapa/MG
 account_balance = 0
 account_limit = 5000
 account_statement = ""

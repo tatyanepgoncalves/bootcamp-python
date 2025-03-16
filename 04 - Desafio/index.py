@@ -95,7 +95,7 @@ while True:
     elif exceeded_limit:
       print("Erro na operação! O valor do saque excede o limite.")
     
-    elif exceeded_limit:
+    elif exceeded_withdrawal:
       print("Erro na operação! Você já atingiu o limite de saques.")
     
     elif value > 0:
